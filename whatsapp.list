@@ -1,0 +1,18 @@
+# WhatsApp 主域名
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,g.whatsapp.net
+DOMAIN-SUFFIX,whatsapp
+DOMAIN-SUFFIX,dit.whatsapp.net
+DOMAIN-SUFFIX,media-lax3-2.cdn.whatsapp.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,cdn.whatsapp.net
+
+
+# WhatsApp 语音/视频通话 STUN 服务器
+DOMAIN,stun.l.google.com
+DOMAIN,stun1.l.google.com
+DOMAIN,stun2.l.google.com
+DOMAIN,stun3.l.google.com
+DOMAIN,stun4.l.google.com
